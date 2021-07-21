@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[554],{7650:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return a}});var n=r(7294),u=r(9432);function a(){return n.createElement(u.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsSloganTee"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-slogan-tee-tsx-8abe526f8ae7d3f44268.js.map

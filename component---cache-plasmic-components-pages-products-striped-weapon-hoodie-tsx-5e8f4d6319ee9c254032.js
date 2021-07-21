@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[716],{8428:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return a}});var n=r(7294),u=r(9432);function a(){return n.createElement(u.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsStripedWeaponHoodie"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-striped-weapon-hoodie-tsx-5e8f4d6319ee9c254032.js.map

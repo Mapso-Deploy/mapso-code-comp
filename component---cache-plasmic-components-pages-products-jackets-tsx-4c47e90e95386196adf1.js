@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[816],{1412:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return u}});var c=r(7294),n=r(9432);function u(){return c.createElement(n.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsJackets"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-jackets-tsx-4c47e90e95386196adf1.js.map

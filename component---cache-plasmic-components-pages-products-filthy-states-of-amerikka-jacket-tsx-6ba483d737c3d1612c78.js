@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[243],{3028:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return n}});var a=r(7294),c=r(9432);function n(){return a.createElement(c.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsFilthyStatesOfAmerikkaJacket"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-filthy-states-of-amerikka-jacket-tsx-6ba483d737c3d1612c78.js.map

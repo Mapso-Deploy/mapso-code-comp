@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[770],{3894:function(e,t,r){"use strict";r.r(t),r.d(t,{default:function(){return n}});var u=r(7294),c=r(9432);function n(){return u.createElement(c.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsFuck12Tee"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-fuck-12-tee-tsx-d5336b339212eb7accb8.js.map

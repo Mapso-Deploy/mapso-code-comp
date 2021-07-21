@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[564],{4995:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return c}});var n=r(7294),u=r(9432);function c(){return n.createElement(u.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsHoodies"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-hoodies-tsx-741ece0a9e91d70f0099.js.map

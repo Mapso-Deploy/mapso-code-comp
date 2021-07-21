@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[351],{1828:function(t,e,r){"use strict";r.r(e),r.d(e,{default:function(){return c}});var n=r(7294),u=r(9432);function c(){return n.createElement(u.ZP,{projectId:"9iimoy7wzgc1dArVcAeqDv",component:"ProductsStripedHoodie"})}}}]);
+//# sourceMappingURL=component---cache-plasmic-components-pages-products-striped-hoodie-tsx-eabb027684a542c64d72.js.map
