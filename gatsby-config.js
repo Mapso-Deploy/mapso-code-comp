@@ -11,7 +11,11 @@ module.exports = {
       resolve: "@plasmicapp/loader/gatsby",
       options: {
         projects: ["9iimoy7wzgc1dArVcAeqDv"], // An array of project ids.
-      },
+      },substitutions: {
+        "components": [{ "name": "IFrame", "path": "src/components/Iframe.jsx" },
+        { "name": "Header", "path": "src/components/Header.tsx" },
+        { "name": "Header White", "path": "src/components/HeaderW.tsx" }],
+}
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-image`,
